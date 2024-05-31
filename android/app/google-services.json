@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080967817028",
+    "project_id": "brew-crew-4dede",
+    "storage_bucket": "brew-crew-4dede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080967817028:android:b584108f59525b526a1911",
+        "android_client_info": {
+          "package_name": "com.example.firebase_practice_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKajhxz3JqyhgL_W1OKmfj6UJBf-2kU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
